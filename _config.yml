@@ -11,6 +11,7 @@ url: http://localhost:4000
 
 permalink:   /:categories/:title/
 markdown:    kramdown
+theme: minima
 highlighter: rouge
 sass:
   sass_dir: _sass
@@ -21,7 +22,6 @@ gems:
   - jekyll-feed
 
 
-theme: minima
 
 kramdown:
   input: GFM
