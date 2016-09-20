@@ -5,7 +5,7 @@ locale: en_US
 description: In a year all this will sound so obvious.
 logo: site-logo.png
 search: true
-url: http://cbira353.github.io
+url: cbira353.github.io
 # http://localhost:4000
 
 # Jekyll configuration
