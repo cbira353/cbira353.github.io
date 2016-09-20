@@ -5,7 +5,8 @@ locale: en_US
 description: In a year all this will sound so obvious.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: cbira353.github.io
+# http://localhost:4000
 
 # Jekyll configuration
 
@@ -39,13 +40,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Marc B. Ira
+  avatar: mbi.JPG
+  email: cbira353@email.com
   disqus-shortname:
-  twitter: #username
+  twitter: marcbira #username
   facebook: #username
-  github: #username
+  github: cbira353 #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
