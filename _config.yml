@@ -6,14 +6,10 @@ description: In a year all this will sound so obvious.
 logo: site-logo.png
 search: true
 url: "https://cbira353.github.io"
-
 # http://localhost:4000
 
 
-#
-
 # Jekyll configuration
-
 permalink:   /:categories/:title/
 markdown:    kramdown
 theme: minima
