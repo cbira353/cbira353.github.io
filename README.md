@@ -1,5 +1,7 @@
 # So Simple Theme
 
+WTF? Why does the README.md suddenly become the About.html page?
+
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
 ## Notable features:
