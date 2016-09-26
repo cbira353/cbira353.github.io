@@ -9,7 +9,7 @@ comments: true
 share: true
 modified: 2016-09-19T14:18:57-04:00
 image:
-  feature: chess.JPG
+  feature: chess.jpg
   credit: MBIra
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
