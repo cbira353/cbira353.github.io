@@ -6,9 +6,9 @@ modified: 2016-06-01T14:17:25-04:00
 categories: articles
 tags: [sample-post]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: yolo.jpg
+  credit: MBira
+  title: Yolo
 comments: true
 share: true
 ---

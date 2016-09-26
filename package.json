@@ -1,10 +1,10 @@
 {
-  "name": "so-simple-theme",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mmistakes.github.io/so-simple-theme/",
+  "name": "mbi-portfolio",
+  "author": "Marc B. Ira <cbira353@gmail.com>",
+  "homepage": "http://cbira353.github.io/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/so-simple-theme.git"
+    "url": "git://github.com/cbira353"
   },
   "bugs": {
     "url": "https://github.com/mmistakes/so-simple-theme/issues"
