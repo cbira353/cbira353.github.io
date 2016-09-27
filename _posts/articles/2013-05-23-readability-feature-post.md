@@ -8,7 +8,7 @@ modified: 2013-06-30
 image:
   feature: japanese-lady.jpg
   credit: MBira
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  creditlink: http://cbira353.github.io/
 comments: true
 share: true
 ---

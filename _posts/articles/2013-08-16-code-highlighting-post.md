@@ -6,9 +6,9 @@ categories: articles
 tags: [sample-post, code, highlighting]
 image:
   feature: hk-tugboat.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
-comments: true
+  credit: MBIra
+  creditlink: http://cbira353.github.io
+  comments: true
 share: true
 modified: 2016-06-01T14:11:53-04:00
 ---

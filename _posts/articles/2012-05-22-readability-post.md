@@ -7,7 +7,7 @@ tags: [sample-post, readability, test, intro]
 image:
   feature: big-ferns.jpg
   credit: MBIra
-  title: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  title: http://cbira353.github.io
 comments: true
 share: true
 ---

@@ -11,7 +11,7 @@ modified: 2016-09-19T14:18:57-04:00
 image:
   feature: chess.jpg
   credit: MBIra
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  creditlink: http://cbira353.github.io/
 ---
 
 The first blog post for this site should talk about my projects and growing interests. For example, here are some existing web pages:
