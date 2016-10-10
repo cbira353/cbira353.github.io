@@ -7,8 +7,8 @@ logo: mi-site-logo.png
 search: true
 
 # NB! Set your site's url, otherwise stuff will break :)
-# url: "http://localhost:4000"
-url: "https://cbira353.github.io"
+url: "http://localhost:4000"
+# url: "https://cbira353.github.io"
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
 # and NOT your user repository (https://yourusername.github.io)
@@ -54,9 +54,9 @@ owner:
   disqus-shortname:
   twitter: marcbira #username
   facebook: #username
-  github: cbira353 #username
+  github: mirabello #username
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: marciracfa #username
   instagram: #username
   flickr: #username
   tumblr: #username

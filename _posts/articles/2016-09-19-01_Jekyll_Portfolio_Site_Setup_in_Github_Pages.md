@@ -1,35 +1,29 @@
 ---
 layout: post
-title: Sample Post
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2016-06-01T14:17:25-04:00
+title: "01 How to Set Up a Jekyll Portfolio Site on Git Pages"
+excerpt: "A few easy steps to setting up your Jekyll site on Git Pages."
 categories: articles
-tags: [sample-post]
+tags: [jekyll, liquid, sass, Git Pages, portfolio site]
+author: mbi
+comments: false
+share: false
+modified: 2016-09-19T14:18:57-04:00
 image:
-  feature: yolo.jpg
-  credit: MBira
-  title: Yolo
-comments: true
-share: true
+  feature: chess.jpg
+  credit: MBIra
+  creditlink: http://cbira353.github.io/
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Abstract:
+A Tutorial on how to set up a Jekyll site in Github Pages in order to display your coding portfolio. 
 
-# Heading 1
 
-## Heading 2
+The first blog post for this site should talk about my projects and growing interests. For example, here are some existing web pages:
 
-### Heading 3
 
-#### Heading 4
+# Projects
 
-##### Heading 5
-
-###### Heading 6
-
-### Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+### BotServer
 
 ![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
 {: .pull-right}
@@ -41,22 +35,12 @@ HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a a
 ### Blockquotes
 
 > Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+    Now is the time for all good men to block quote
 
-## List Types
+```Now is the time for all good men to also use three-tick block quotes
+```
 
-### Ordered Lists
 
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
 
 ## Tables
 
