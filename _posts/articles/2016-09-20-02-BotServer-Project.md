@@ -15,4 +15,9 @@ image:
 ---
 
 Abstract:
-Tutorial on how to set up a Jekyll site in Github Pages. 
+How to set up a Node.js site that accessess IBM's Watson API to discern the Tone of chat conversation and trigger a response.
+
+# BotServer
+
+![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
+{: .pull-right}
