@@ -23,6 +23,7 @@ Links to our [repo](https://github.com/Mirabello/Closers2015-BotServer.git) and 
 
 ![AzizBot]({{ site.url }}/images/AzizBot.gif)
 {: .pull-right}
+*Please excuse the language of the bot.  My colleagues were in a frisky mood when we presented our final project. They also wanted to trigger the AI with a harsh conversational tone.*
 
 ## Summary:
 Botserver is a back end API that can be used to deploy and host different types of chatbots on Slack. It is built on Node.js and MongoDB. So far, the app can deploy three different kinds of bots: ToneBot, FAQbot, and InfoBot.
