@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Portfolio Blog Posts on Github Pages"
+title: "Portfolio Blog: Posts on Github Pages"
 modified:
 categories: blog
 excerpt: 'Blog posts are non-technical posts; more on learning reflections'
 tags: [TIL]
 image:
 feature:
-date: 2014-08-08T15:39:55-04:00
-modified: 2016-06-01T14:19:19-04:00
+date: 2016-06-01
+modified: 2016-06-03
 ---
 
 A general welcome to the blog side of my porfolio site. 

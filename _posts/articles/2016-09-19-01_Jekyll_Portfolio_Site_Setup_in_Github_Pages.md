@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "01 How to Set Up a Jekyll Portfolio Site on Git Pages"
+title: "01 How to Set Up a Jekyll Site on Git Pages"
 excerpt: "A few easy steps to setting up your Jekyll site on Git Pages."
 categories: articles
 tags: [jekyll, liquid, sass, Git Pages, portfolio site]
