@@ -13,7 +13,7 @@ My coding journey started this year (2016), really.
 
 From zero. 
 
-(Ok, I a few years doing some html and Wordpress stuff before. But I don't count those as being very techy.) 
+(Ok, I have a few years experience doing some HTML/CSS and Wordpress stuff before. But I don't count those as being very techy.) 
 
 What I did was attend a coding bootcamp in New York City.  The experience was like drinking water from a firehose.  It's not fun when there's just this ton of stuff you have to learn and you can only absorb (let alone _master_) a small part of it. It's especially not fun when some in your cohort were CS majors. Yeah. They'd seen this movie before. So, it was not easy. 
 
