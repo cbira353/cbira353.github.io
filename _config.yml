@@ -48,9 +48,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: CB Ira
+  name: CBIra
   avatar: mbi.JPG
-  email: cbira353@email.com
+  email: cb@codemirai.com
   disqus-shortname:
   twitter: marcbira #username
   facebook: #username
