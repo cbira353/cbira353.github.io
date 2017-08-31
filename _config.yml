@@ -48,13 +48,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Marc B. Ira
+  name: CB Ira
   avatar: mbi.JPG
   email: cbira353@email.com
   disqus-shortname:
   twitter: marcbira #username
   facebook: #username
-  github: mirabello #username
+  github: cbira353 #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: marciracfa #username
   instagram: #username
