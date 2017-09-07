@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Build a Simple Flask application"
+title: "09 How to Build a Simple Flask application"
 excerpt: "We create a simple demonstration of Flask and how we use its simple routing functions to display some quotes on a browser."
 categories: articles
 tags: [api, python, flask]
@@ -9,7 +9,7 @@ comments: false
 share: false
 modified: 2017-9-07
 image:
-  feature: church.jpg
+  feature: big-ferns.jpg
   credit: CBIra
   creditlink: http://cbira353.github.io/
 ---
